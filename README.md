@@ -7,8 +7,12 @@
 
 
 # My Projects
-Memory Game (https://github.com/A01286362/Python-Memorama-Game)
-Pacman Rework Search Game (https://github.com/A01286362/Python-Search-Game)
+- Memory Game (https://github.com/A01286362/Python-Memorama-Game)
+- Pacman Rework Search Game (https://github.com/A01286362/Python-Search-Game)
+
+
+
+
 - 👋 Hi, I’m @A01286362
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
