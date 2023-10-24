@@ -1,7 +1,14 @@
 # Hi I'm Danny Wu
+-- -- 
 
 
 
+
+
+
+# My Projects
+
+Pacman Rework Search Game (https://github.com/A01286362/Python-Search-Game)
 - 👋 Hi, I’m @A01286362
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
