@@ -1,6 +1,4 @@
-<header>
-        #Hi I'm Danny Wu
-</header>
+# Hi I'm Danny Wu
 
 
 
