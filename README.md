@@ -8,7 +8,7 @@ I am a guy hungry for knowledge, so ebeything I see I'm curious about and try to
 
 -- --
 # My Projects
-- Memory Game (https://github.com/A01286362/Python-Memorama-Game)
+- "/Memory Game": "https://github.com/A01286362/Python-Memorama-Game"
 - Pacman Rework Search Game (https://github.com/A01286362/Python-Search-Game)
 
 <!---
